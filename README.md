@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Thành Tâm</h1>
-<h3 align="center">On the way to becoming a full stack developer from VietNam</h3>
+<h3 align="center">On the way to becoming a full stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
